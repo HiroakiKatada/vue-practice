@@ -2,5 +2,7 @@
 </script>
 
 <template>
-  <div>unko</div>
+  <div>
+    Minimal Vue Example
+  </div>
 </template>
